@@ -1,12 +1,16 @@
 {
   "name": "react-fullscreen-loading",
   "version": "0.0.2",
-  "description": "Minimal fullscreen loading for react",
+  "description": "Minimal fullscreen loading for React",
   "main": "dist/loading.js",
   "scripts": {
     "start": "webpack-dev-server --config ./webpack.config.js --mode development",
     "dev": "webpack-dev-server --config dev.config.js --mode development",
     "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaminmeerankutty/react-fullscreen-loading"
   },
   "keywords": [
     "React",
@@ -16,6 +20,7 @@
   ],
   "author": "Shamin Meerankutty",
   "license": "MIT",
+  "homepage": "https://github.com/shaminmeerankutty/react-fullscreen-loading",
   "dependencies": {
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
