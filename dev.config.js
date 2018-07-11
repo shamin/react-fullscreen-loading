@@ -1,6 +1,6 @@
 module.exports = {
   entry: [
-    './lib/loading.js'
+    './example/index.js'
   ],
   module: {
     rules: [
@@ -19,9 +19,13 @@ module.exports = {
     extensions: ['*', '.js', '.jsx', '.css']
   },
   output: {
-    path: `${__dirname}/dist`,
+    path: `${__dirname}/example`,
     publicPath: '/',
     filename: 'bundle.js'
+  },
+  devServer: {
+    contentBase: './example',
+    historyApiFallback: true
   }
 }
 

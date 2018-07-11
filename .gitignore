@@ -48,3 +48,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Discarding bundle file
+example/bundle.js

@@ -1,11 +1,12 @@
 {
   "name": "react-fullscreen-loading",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Minimal fullscreen loading for react",
-  "main": "dist/bundle.js",
+  "main": "dist/loading.js",
   "scripts": {
     "start": "webpack-dev-server --config ./webpack.config.js --mode development",
-    "build": "webpack --config webpack.config.js --mode production"
+    "dev": "webpack-dev-server --config dev.config.js --mode development",
+    "build": "webpack --mode production"
   },
   "keywords": [
     "React",

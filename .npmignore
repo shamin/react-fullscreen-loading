@@ -2,6 +2,6 @@
 .editorconfig
 .eslintrc
 .gitignore
-.npmignore
 example/
 webpack.config.js
+dev.config.js
