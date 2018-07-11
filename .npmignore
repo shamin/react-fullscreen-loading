@@ -1,0 +1,7 @@
+.babelrc
+.editorconfig
+.eslintrc
+.gitignore
+.npmignore
+example/
+webpack.config.js
