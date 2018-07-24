@@ -1,6 +1,8 @@
 # react-fullscreen-loading
 Minimal fullscreen loading for react
 
+[![Edit v6z782xow7](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/v6z782xow7)
+
 ## Installation
 
 ```
