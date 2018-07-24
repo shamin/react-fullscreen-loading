@@ -34,3 +34,7 @@ Name | Type | Default Value
 loading | boolean | false
 background | String  | `rgba(236, 240, 241, 0.7)`
 loaderColor | String  | `#e74c3c`
+
+# Licence
+Code released under the [MIT License](https://github.com/shaminmeerankutty/react-fullscreen-loading/blob/master/LICENSE.md)
+
