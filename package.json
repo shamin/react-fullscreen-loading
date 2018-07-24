@@ -1,6 +1,6 @@
 {
   "name": "react-fullscreen-loading",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Minimal fullscreen loading for React",
   "main": "dist/loading.js",
   "scripts": {

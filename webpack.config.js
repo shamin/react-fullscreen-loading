@@ -21,7 +21,9 @@ module.exports = {
   output: {
     path: `${__dirname}/dist`,
     publicPath: '/',
-    filename: 'bundle.js'
+    filename: 'loading.js',
+    libraryTarget: 'umd',
+    library: 'Loading'
   }
 }
 
